@@ -8,28 +8,28 @@ const steps = [
     title: '1. Pides Online',
     description: 'Explora el catálogo y pide desde tu celular.',
     // Imagen de persona comprando/tecnología
-    imageUrl: 'https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?q=80&w=2070&auto=format&fit=crop', 
+    imageUrl: 'https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=800&q=80', 
   },
   {
     id: 2,
     title: '2. Cosecha Fresca',
     description: 'El agricultor cosecha solo lo que pediste.',
     // Imagen de agricultura/cosecha
-    imageUrl: 'https://images.unsplash.com/photo-1595855709915-3977535ec83d?q=80&w=2070&auto=format&fit=crop', 
+    imageUrl: 'https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800&q=80', 
   },
   {
     id: 3,
     title: '3. Logística Ágil',
     description: 'Ruta optimizada sin intermediarios.',
     // Imagen de transporte/cajas
-    imageUrl: 'https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?q=80&w=2070&auto=format&fit=crop', 
+    imageUrl: 'https://images.unsplash.com/photo-1566576721346-d4a3b4eaeb55?w=800&q=80', 
   },
   {
     id: 4,
     title: '4. Recibes en 24h',
     description: 'Del campo a tu mesa al día siguiente.',
     // Imagen de comida/mesa
-    imageUrl: 'https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=1974&auto=format&fit=crop', 
+    imageUrl: 'https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&q=80', 
   },
 ];
 
