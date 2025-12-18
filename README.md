@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Proyecto AGR
 
 AGR es una aplicación diseñada para conectar a agricultores con consumidores, ofreciendo una plataforma intuitiva para la compra y venta de productos agrícolas. Este proyecto utiliza tecnologías modernas como React, TypeScript y Vite para garantizar un rendimiento óptimo y una experiencia de usuario fluida.
